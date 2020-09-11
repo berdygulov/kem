@@ -1,0 +1,16 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m23,16l0,-4c0,-0.552 0.448,-1 1,-1l2.857,0l-0.338001,-0.788c-0.314999,-0.735 -1.037998,-1.212 -1.837999,-1.212l-6.681,0l0,14l3.049999,0c-0.084,-0.414 -0.067999,-0.863001 0.087,-1.326c0.262001,-0.784 0.935001,-1.403999 1.738001,-1.598c1.652,-0.4 3.125,0.84 3.125,2.424c0,0.171 -0.018,0.337999 -0.049999,0.5l3.049999,0l0,-7l-6,0z"/>
+  <circle id="svg_2" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" r="2.5" cy="22.5" cx="23.5"/>
+  <path id="svg_3" d="m16,5l-13,0c-1.105,0 -2,0.895 -2,2l0,16l4.05,0c-0.084,-0.414 -0.068,-0.863001 0.087,-1.326c0.262,-0.784 0.935,-1.403999 1.738,-1.598c1.652,-0.4 3.125,0.84 3.125,2.424c0,0.171 -0.018,0.337999 -0.05,0.5l8.05,0l0,-16c0,-1.105 -0.895,-2 -2,-2z"/>
+  <circle id="svg_4" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" r="2.5" cy="22.5" cx="7.5"/>
+  <line id="svg_5" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" y2="22" y1="22" x2="29" x1="28"/>
+  <line id="svg_6" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" y2="22" y1="22" x2="3" x1="1"/>
+ </g>
+</svg>

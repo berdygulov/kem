@@ -1,0 +1,30 @@
+//main colors
+$light_black:#131F2B;
+$dark_white:#F4F4F4;
+$white:#F4F4F4;
+$blue: #006DB7;
+$gray:#616161;
+$white:#FFFFFF;
+$white-gray:#C7C7C7;
+//texts mixin
+@mixin headings() {
+    color:$light_black;
+    text-transform: capitalize;
+    font-size: 32px;
+    line-height: 32px;
+    font-weight: 700;   
+}
+@mixin paragraph() {
+    color: $gray;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 24px;
+}
+@mixin headings_title() {
+    color: $blue;
+    font-size: 24px;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-align: left;    
+}
+
